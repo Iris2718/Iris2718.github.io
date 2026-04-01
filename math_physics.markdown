@@ -20,6 +20,6 @@ Posts in category "Physics" are:
 
 {% for post in site.categories.Physics %}
    {% if post.url %}
-       - [{{ post.title }}]({{ post.url }})
+- [{{ post.title }}]({{ post.url }})
    {% endif %}
 {% endfor %}
