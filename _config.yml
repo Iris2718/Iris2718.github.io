@@ -31,7 +31,8 @@ github_username:  jekyll
 
 # Build settings
 theme: minima
-
+kramdown:
+  math_engine: katex
 plugins:
   - jekyll-feed
   - jekyll-katex
