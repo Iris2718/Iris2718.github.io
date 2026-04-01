@@ -8,8 +8,13 @@ Here are some trip reports I have written over the years. Hiking, especially in 
 
 ![The moon rising over cathedral spires](/assets/images/cathedral_moon.jpg "cathedral spires")
 
+
 ### 14ers.com Reports
 
 [Big Blue Sky](https://www.14ers.com/php14ers/tripreport.php?trip=23085)
 
-<iframe src="https://caltopo.com/m/7PG75KB" width="50%" height="600px"></iframe>
+[Grays Peak Bike Shuttle](https://www.14ers.com/php14ers/tripreport.php?trip=23085)
+
+### Others
+
+[Baldy Peak](https://www.listsofjohn.com/tr?Id=26971&pkid=5382)

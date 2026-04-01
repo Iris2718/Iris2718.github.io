@@ -7,6 +7,10 @@ categories: test
 
 This is the first post on my website.
 
+Here is an example caltopo embed:
+
+<iframe src="https://caltopo.com/m/7PG75KB" width="100%" height="600px"></iframe>
+
 
 
 
