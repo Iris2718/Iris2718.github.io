@@ -11,6 +11,10 @@ Here is an example caltopo embed:
 
 <iframe src="https://caltopo.com/m/7PG75KB" width="100%" height="600px"></iframe>
 
+$$\latex$$ test
+
+$$\hat{H} \psi = E \psi$$
+
 
 
 
