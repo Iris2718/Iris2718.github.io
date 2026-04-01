@@ -9,7 +9,7 @@ I wrote this in February 2026. I was mainly trying to understand a few lines in 
 
 I have posted it here because it is cool, and because I wanted to see if I could embed a pdf.
 
-<object data="/assets/pdfs/euler-lagrange.pdf" width="100%" type='application/pdf'></object>
+<object data="/assets/pdfs/euler-lagrange.pdf" width="100%" height="auto" type='application/pdf'></object>
 
 
 
