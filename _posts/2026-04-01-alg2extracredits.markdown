@@ -10,12 +10,13 @@ I wrote these assignments when I taught algebra 2 in 2022/2023. They are aimed a
 The first packet deals with the familiar parabola, and how it can be viewed through the lens of group theory. The second packet attempts to introduce the complex exponential $$e^{ix}$$ without calculus.
 
 <details>
-<summary>Parabola Transformations and Group Theory</summary>
+<summary>Parabola Transformations and Group Theory <a href="/assets/pdfs/parabola-group.pdf">download pdf</a>
+</summary>
 <object data="/assets/pdfs/parabola-group.pdf#navpanes=0&scrollbar=0#view=fitH" style="width: 100%; height: 130vh" type='application/pdf'></object>
 </details>
 
 <details>
-<summary>The Complex Exponential</summary>
+<summary>The Complex Exponential <a href="/assets/pdfs/complex-exponential.pdf">download pdf</a></summary>
 <object data="/assets/pdfs/complex-exponential.pdf#navpanes=0&scrollbar=0#view=fitH" style="width: 100%; height: 130vh" type='application/pdf'></object>
 </details>
 
