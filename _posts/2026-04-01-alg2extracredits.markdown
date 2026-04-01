@@ -11,12 +11,14 @@ The first packet deals with the familiar parabola, and how it can be viewed thro
 
 <details>
 <summary>Parabola Transformations and Group Theory</summary>
-<object data="/assets/pdfs/parabola-group.pdf#toolbar=0&navpanes=0&scrollbar=0#view=fitH" style="width: 100%; height: 130vh" type='application/pdf'></object>
+[download](/assets/pdfs/parabola-group.pdf)
+<object data="/assets/pdfs/parabola-group.pdf#navpanes=0&scrollbar=0#view=fitH" style="width: 100%; height: 130vh" type='application/pdf'></object>
 </details>
 
 <details>
 <summary>The Complex Exponential</summary>
-<object data="/assets/pdfs/complex-exponential.pdf#toolbar=0&navpanes=0&scrollbar=0#view=fitH" style="width: 100%; height: 130vh" type='application/pdf'></object>
+[download](/assets/pdfs/complex-exponential.pdf)
+<object data="/assets/pdfs/complex-exponential.pdf#navpanes=0&scrollbar=0#view=fitH" style="width: 100%; height: 130vh" type='application/pdf'></object>
 </details>
 
 
