@@ -21,11 +21,11 @@
 title: All Things Iris
 domain: Iris2718.github.io
 url: https://Iris2718.github.io
-email: your-email@example.com
+email: iris.honors@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello! this is my personal website. My main interests are hiking (peakbagging), rock climbing, physics, and math.    
+  Hello! this is my personal website. My main interests are hiking (peakbagging), rock climbing, physics, and math. This site was made without llms!    
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://Iris2718.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Iris2718
 
 # Build settings
