@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Derivation of the Euler Lagrange Equations"
-date:   2026-03-31 01:53:00 -0600
+date:   2026-04-01 01:53:00 -0600
 categories: Physics
 ---
 
