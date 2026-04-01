@@ -26,13 +26,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hello! this is my personal website. My main interests are hiking (peakbagging), rock climbing, physics, optics, math, origami, and piano.    
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  Iris2718
 
 # Build settings
 theme: minima
-kramdown:
-  math_engine: katex
 plugins:
   - jekyll-feed
 
