@@ -6,13 +6,13 @@ permalink: /math_physics/
 
 Math things, physics things, related things, I hope you think they are cool!
 
-Posts in category "Math" are:
+## Math
 
 {% for post in site.categories.Math %}
  + [{{ post.title }}]({{ page.url }})
 {% endfor %}
 
-Posts in category "Physics" are:
+## Physics
 
 {% for post in site.categories.Physics %}
  + [{{ post.title }}]({{ page.url }})
