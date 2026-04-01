@@ -10,4 +10,4 @@ Here are some trip reports I have written over the years. Hiking, especially in 
 
 [Big Blue Sky](https://www.14ers.com/php14ers/tripreport.php?trip=23085)
 
-<iframe src="https://caltopo.com/m/7PG75KB" width="50%" height="500px"></iframe>
+<iframe src="https://caltopo.com/m/7PG75KB" width="50%" height="600px"></iframe>
