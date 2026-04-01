@@ -9,17 +9,17 @@ I made these when I was a math teacher. Hopefully you think they are cool.
 Check out the code in [Binder](https://mybinder.org/v2/gh/alpineirisgay/JuliaSetGifs/HEAD) (interactive) or on [GitHub](https://github.com/Iris2718/JuliaGifs). The code is a Jupyter Notebook that contains a detailed explanation of how it works and how to use it to generate your own Julia/Mandelbrot renderings and animations. The code could be easily altered to make mandelbrot zooms
 
 
-If you're unfamiliar, a Julia Set in this context is all the points on the complex plane that don't zoom off to infinity under the iterated mapping $$z \to z^2+k$$. Each frame of these animations was generated with a different value of k.
+If you're unfamiliar, a Julia Set in this context is all the points on the complex plane that don't zoom off to infinity under the iterated mapping $$z \to z^2+k$$. Each frame of these animations was generated with a different value of $$k$$.
 
 <img src="https://files.catbox.moe/jsvfxx.gif" alt="Julia Set Animation 1">
 
-100 Julia Sets with k near -0.8+0.156i following a circle with r=0.05 and center 0.8+0.156i
+100 Julia Sets with $$k$$ near $$-0.8+0.156i$$ following a circle with $$r=0.05$$ and center $$0.8+0.156i$$
 
 <img src="https://files.catbox.moe/lzqpze.gif" alt="julia set animation 2">
 
-100 Julia Sets, k(t) = 0.05exp(it)-0.4+0.6i
+100 Julia Sets, $$k(t) = 0.05e^{it}-0.4+0.6i$$
 
-Julia Sets are related to the more famous Mandelbrot Set. The mandelbrot set is generated in a similar way to julia sets, but instead of choosing one value of k for the entire complex plane, we use the mapping z-&gt;z^2+z_0, where z_0 is the initial value of z, before any iterations. My code can also make pictures of the mandelbrot set:
+Julia Sets are related to the more famous Mandelbrot Set. The mandelbrot set is generated in a similar way to julia sets, but instead of choosing one value of $$k$$ for the entire complex plane, we use the mapping $$z \to z^2+z_0$$, where $$z_0$$ is the initial value of $$z$$, before any iterations. My code can also make pictures of the mandelbrot set:
 
 <img src="https://files.catbox.moe/njwx1f.png" alt="mandelbrot set">
 
@@ -27,14 +27,14 @@ The mandelbrot set has many named features. Check out <a href="https://fractals.
 
 <img src="https://files.catbox.moe/uwbf7m.gif" alt="Julia Set Animation 3">
 
-100 Julia Sets near the period 2 continent of the Mandelbrot Set, k(t)=0.26exp(it)-1.01
+100 Julia Sets near the period 2 continent of the Mandelbrot Set, $$k(t)=0.26e^{it}-1.01$$
 
 <img src="https://files.catbox.moe/50eirs.gif" alt="Julia Set Animation 4">
 
-similar to the previous gif, but slightly shifted, k(t)=0.26exp(it)-1
+similar to the previous gif, but slightly shifted, $$k(t)=0.26e^{it}-1$$
 
 <img src="https://files.catbox.moe/5ialhw.gif" alt="Julia Set Animation 5">
 
-This one chooses k based on points close to the main cardiod of the mandelbrot set.
+This one chooses $$k$$ based on points close to the main cardiod of the mandelbrot set.
 
 
