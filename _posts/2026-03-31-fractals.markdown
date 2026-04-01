@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Julia Set Animations from 2023"
+date:   2026-03-31 22:41:00 -0600
+categories: Math
+---
+
+If you're unfamiliar, a Julia Set in this context is all the points on the complex plane that don't zoom off to infinity under the iterated mapping z->z^2+k. Each frame of these animations was generated with a different value of k.
+
+<img src="https://files.catbox.moe/jsvfxx.gif" alt="Julia Set Animation 1">
+
+
