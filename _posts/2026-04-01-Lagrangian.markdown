@@ -11,6 +11,3 @@ I have posted it here because it is cool, and because I wanted to see if I could
 
 <object data="/assets/pdfs/euler-lagrange.pdf#toolbar=0&navpanes=0&scrollbar=0#view=fitH" style="width: 100%; height: 100vh" type='application/pdf'>
 </object>
-
-Or [click here](/assets/pdfs/euler-lagrange.pdf) to download the pdf
-
