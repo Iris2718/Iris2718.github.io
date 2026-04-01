@@ -15,9 +15,13 @@ If you're unfamiliar, a Julia Set in this context is all the points on the compl
 
 100 Julia Sets with $$k$$ near $$-0.8+0.156i$$ following a circle with $$r=0.05$$ and center $$0.8+0.156i$$
 
+<br>
+
 <img src="https://files.catbox.moe/lzqpze.gif" alt="julia set animation 2">
 
 100 Julia Sets, $$k(t) = 0.05e^{it}-0.4+0.6i$$
+
+<br>
 
 Julia Sets are related to the more famous Mandelbrot Set. The mandelbrot set is generated in a similar way to julia sets, but instead of choosing one value of $$k$$ for the entire complex plane, we use the mapping $$z \to z^2+z_0$$, where $$z_0$$ is the initial value of $$z$$, before any iterations. My code can also make pictures of the mandelbrot set:
 
@@ -29,9 +33,13 @@ The mandelbrot set has many named features. Check out <a href="https://fractals.
 
 100 Julia Sets near the period 2 continent of the Mandelbrot Set, $$k(t)=0.26e^{it}-1.01$$
 
+<br>
+
 <img src="https://files.catbox.moe/50eirs.gif" alt="Julia Set Animation 4">
 
 similar to the previous gif, but slightly shifted, $$k(t)=0.26e^{it}-1$$
+
+<br>
 
 <img src="https://files.catbox.moe/5ialhw.gif" alt="Julia Set Animation 5">
 
