@@ -8,4 +8,6 @@ Here are some trip reports I have written over the years. Hiking, especially in 
 
 ### 14ers.com Reports
 
-[Hiking 8 Peaks to get back to my bike to get back to my car](https://www.14ers.com/php14ers/tripreport.php?trip=23085)
+[Big Blue Sky](https://www.14ers.com/php14ers/tripreport.php?trip=23085)
+
+<iframe src="https://caltopo.com/m/7PG75KB" width="100%" height="600px"></iframe>
