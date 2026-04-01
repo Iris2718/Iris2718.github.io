@@ -6,22 +6,20 @@ permalink: /math_physics/
 
 Math things, physics things, related things, I hope you think they are cool!
 
-<p>Posts in category "Math" are:</p>
+Posts in category "Math" are:</p>
 
-<ul>
-  {% for post in site.categories.Math %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
 
-<p>Posts in category "Physics" are:</p>
+{% for post in site.categories.Math %}
+   {% if post.url %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+   {% endif %}
+{% endfor %}
 
-<ul>
-  {% for post in site.categories.Physics %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
+
+Posts in category "Physics" are:
+
+{% for post in site.categories.Physics %}
+   {% if post.url %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+   {% endif %}
+{% endfor %}
