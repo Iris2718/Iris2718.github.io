@@ -5,6 +5,10 @@ date:   2026-03-31 22:41:00 -0600
 categories: Math
 ---
 
+I made these when I was a math teacher. Hopefully you think they are cool.
+Check out the code in [Binder](https://mybinder.org/v2/gh/alpineirisgay/JuliaSetGifs/HEAD) (interactive) or on [GitHub](https://github.com/Iris2718/JuliaGifs). The code is a Jupyter Notebook that contains a detailed explanation of how it works and how to use it to generate your own Julia/Mandelbrot renderings and animations. The code could be easily altered to make mandelbrot zooms
+
+
 If you're unfamiliar, a Julia Set in this context is all the points on the complex plane that don't zoom off to infinity under the iterated mapping z->z^2+k. Each frame of these animations was generated with a different value of k.
 
 <img src="https://files.catbox.moe/jsvfxx.gif" alt="Julia Set Animation 1">
