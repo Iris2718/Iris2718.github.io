@@ -9,11 +9,11 @@ Math things, physics things, related things, I hope you think they are cool!
 ## Math
 
 {% for post in site.categories.Math %}
- + [{{ post.title }}]({{ page.url }})
+ + [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
 ## Physics
 
 {% for post in site.categories.Physics %}
- + [{{ post.title }}]({{ page.url }})
+ + [{{ post.title }}]({{ post.url }})
 {% endfor %}
